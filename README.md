@@ -71,7 +71,7 @@ src/
 
 1. **Clone o repositório**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/lazaaro01/High-Performance-RESTful-API.git>
 cd high-performance
 ```
 
